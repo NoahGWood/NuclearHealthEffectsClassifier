@@ -3,7 +3,7 @@ Nuclear Health Effects Classifier is an open-source classifier developed to pred
 
 ## Purpose
 
-This classifier was developed as part of an undergraduate proposal to demonstrate the benefits of updating our nuclear response technologies to the 21st century. It has been released to the public in the hope that it may prove useful. The proposal is also provided herein.
+This classifier was developed as part of an undergraduate proposal to demonstrate the benefits of updating our atomic incident response technologies to the 21st century. It has been released to the public in the hope that it may prove useful. The proposal paper this classifier was developed for is also provided herein.
 
 ## How To Use
 
